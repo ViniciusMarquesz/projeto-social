@@ -5,13 +5,6 @@ construção visual simples, mas bem alinhada, demonstrando domínio de estrutur
 
 ---
 
-## 🔗 Visualização ao vivo
-
-Veja o projeto funcionando no GitHub Pages:  
-👉 [Clique aqui para acessar](https://viniciusmarquesz.github.io/projeto-social/)
-
----
-
 ## 🎯 Objetivo
 
 Praticar os fundamentos do **HTML semântico** e do **CSS**, com foco em:
